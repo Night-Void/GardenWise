@@ -1,4 +1,5 @@
 🌿 GardenWise
+
 GardenWise is a interactive gardening website designed to help plant enthusiasts with plant guides, community forums, smart plant recommendations, and schedule reminders for gardening activities.
 
 🔧 Features

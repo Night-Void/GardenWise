@@ -1,8 +1,9 @@
 🌿 GardenWise
 
-GardenWise is a interactive gardening website designed to help plant enthusiasts with plant guides, community forums, smart plant recommendations, and schedule reminders for gardening activities.
+GardenWise is an interactive gardening website designed to help plant enthusiasts with plant guides, community forums, smart plant recommendations, and schedule reminders for gardening activities.
 
 🔧 Features
+
 Plant Guides
 Beautifully designed plant care guides created using Canva, providing detailed information about various topics related to plants.
 
@@ -34,11 +35,15 @@ Notifications & Reminders
 Schedule and track gardening activities with timely notifications to help users maintain healthy plants.
 
 💻 Tech Stack
-Frontend	Backend	Machine Learning	Others
-HTML, CSS, JavaScript	PHP (or Python backend)	Scikit-learn (Random Forest)	Pickle (model persistence)
-Canva (for design)		Label Encoding	Notification scheduler
+
+| Frontend              | Backend                 | Machine Learning             | Others                     |
+| --------------------- | ----------------------- | ---------------------------- | -------------------------- |
+| HTML, CSS, JavaScript | PHP (MySQL backend)     | Scikit-learn (Random Forest) | Pickle (model persistence) |
+| Canva (for design)    |                         | Label Encoding               |                            |
+
 
 🚀 How to Use
+
 Plant Guide
 Browse detailed plant care guides designed with Canva to understand your plant's needs.
 
